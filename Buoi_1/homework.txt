@@ -1,0 +1,34 @@
+﻿1. Nhập từ bàn phím tên, tuổi, năm sinh và in ra mà hình
+2. Tính a + b + c với a, b, c nhập từ bàn phím (scanf("%f")....)
+3. Nhập a, b. In ra màn hình phần nguyên, phần dư
+(scanf("%f",...)
+4. In ra màn hình đoạn thơ sau: sử dụng "\t và \n" để viết thể thơ lục bát
+"	Quê hương là một tiếng ve
+	Lời ru của mẹ trưa hè à ơi
+	Dòng sông con nước đầy vơi
+	Quê hương là một góc trời tuổi thơ
+	Quê hương ngày ấy như mơ
+	Tôi là cậu bé dại khờ đáng yêu
+	Quê hương là tiếng sáo diều
+	Là cánh cò trắng chiều chiều chân đê
+	Quê hương là phiên chợ quê
+	Chợ trưa mong mẹ mang về bánh đa
+	Quê hương là một tiếng gà
+	Bình minh gáy sáng ngân nga xóm làng
+	Quê hương là cánh đồng vàng
+	Hương thơm lúa chín mênh mang trời chiều
+	Quê hương là dáng mẹ yêu
+	Áo nâu nón lá liêu siêu đi về
+	Quê hương nhắc tới nhớ ghê
+	Ai đi xa cũng mong về chốn xưa
+	Quê hương là những cơn mưa
+	Quê hương là những hàng dừa ven kinh
+	Quê hương mang nặng nghĩa tình
+	Quê hương tôi đó đẹp xinh tuyệt vời
+	Quê hương ta đó là nơi
+	Chôn rau cắt rốn người ơi nhớ về."
+5. Nhập số tự nhiên và in ra màn hình kết quả diện tích, chu vi của hình vuông với số đo là giá trị nhập vào
+6. Nhập a, b, c tính chu vi, diện tích hình tam giác
+7. Nhập a, b và tính chu vi, diện tích hình chữ nhật
+8. Nhập r tính chu vi và diện tích hình tròn
+9. In ra màn hình thông tin cá nhân(cv) của bạn
